@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available on my <a href="https://shreya71.github.io/Portfolio_Website/](https://shreya71.github.io/Portfolio_Website/">Website</a>
+- 👨‍💻 All of my projects are available on my <a href="https://shreya71.github.io/Portfolio_Website/">Website</a>
 
 - 📫 How to reach me <a href= "mailto: shreyasingh070801@gmail.com"> &#x1F4E7; </a>
 
